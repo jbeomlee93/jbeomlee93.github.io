@@ -18,14 +18,39 @@ Publications
 
 ## 2022
 
-{% include module.html image_path="AdvCAM_teaser.jpg" title="Some title text" description="Some more text that will appear to the left of the image." %}
 
-<div style="clear: both;">
-  <div style="float: left; margin-right 1em;">
-    <img src="AdvCAM_teaser.jpg" alt="" width="100">
-  </div>
-  <div>
-    <h2>a</h2>
-    <p>Some more text that will appear to the left of the image.</p>
-  </div>
+
+  <section id="papers" class="home-section wg-papers   " style="padding: 20px 0 20px 0;" >
+    <div class="container">
+      
+<div class="row">
+  
+    <div class="col-lg-12">
+      <h1>Publications</h1>
+    </div>
+    <div class="row">
+        <ul class="ul-papers">
+        <li>
+            <div class="img">
+              <img src="AdvCAM_teaser.jpg" class="img-responsive" alt="">
+            </div>
+          <div class="description">
+            <p class="title">TubeFormer-DeepLab: Video Mask Transformer</p>
+            <p class="authors"><b>Dahun Kim</b>, Jun Xie, Huiyu Wang, Siyuan Qiao, Qihang Yu, Hong-Seok Kim,<br/>
+            &nbsp;&nbsp; Hartwig Adam, In So Kweon, Liang-Chieh Chen</p>
+            <p class="venue">CVPR 2022 <br>
+            </p>
+            <p class="resources">
+              [
+                paper
+              ]
+            </p>
+          </div>
+        </li>
+
+     
+        </ul>      
+    </div>  
 </div>
+    </div>
+  </section>
