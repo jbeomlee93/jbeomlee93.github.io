@@ -19,6 +19,12 @@ Publications
 ## 2022
 
 
+| - | - |
+|---|---|
+| I am text to the left  | ![Flowers](/_publications/AdvCAM_teaser.jpg) |
+| ![Flowers](/_publications/AdvCAM_teaser.jpg) | I am text to the right |
+
+
 <tr>
           <td style="padding:20px;width:25%;vertical-align:middle">
             <img src="/_publications/AdvCAM_teaser.jpg" alt="lee2022cvpr_wood" width="160" >
