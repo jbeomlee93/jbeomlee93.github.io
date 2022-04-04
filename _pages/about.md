@@ -18,12 +18,33 @@ Publications
 
 ## 2022
 
-<!-- ![AA](/_publications/AdvCAM_teaser.jpg){: style="float:right"} -->
-<!-- <img style="float: right;" src="/_publications/AdvCAM_teaser.jpg"> -->
-<div style="text-align: left"><img src="/_publications/AdvCAM_teaser.jpg" width="200" /></div>
-Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization <br />
-**Jungbeom Lee**, Eunji Kim, Jisoo Mok, and Sungroh Yoon <br />
-IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), in press. [A preliminary version appeared in CVPR 2021]
 
-![image](/_publications/AdvCAM_teaser.jpg){: style="float: left"}
-some text
+<tr>
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <img src="/_publications/AdvCAM_teaser.jpg" alt="lee2022cvpr_wood" width="160" >
+          </td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="data/lee2022cvpr_wood.pdf" id="lee2022cvpr_wood">
+            <papertitle>Weakly Supervised Semantic Segmentation using Out-of-Distribution Data</papertitle>
+            </a>
+            <br>
+            <a href="https://github.com/jbeomlee93">Jungbeom Lee</a>,
+            <a href="https://coallaoh.github.io/">Seong Joon Oh</a>,
+            <strong>Sangdoo Yun</strong>,
+            <a href="https://sites.google.com/site/junsukchoe/">Junsuk Choe</a>,
+            <a href="http://data.snu.ac.kr/index.php/people/">Eunji Kim</a>,
+            <a href="http://data.snu.ac.kr/index.php/people/">Sungroh Yoon</a>.
+            <br>
+            <em>CVPR</em>, 2022
+            <br>
+            <a href="data/lee2022cvpr_wood.txt">Bibtex</a> /
+            <a href="https://github.com/naver-ai/w-ood">Code</a>
+            <p></p>
+            <p>
+            Weakly supervised semantic segmentation (WSSS) suffers from spurious correlations between foreground (e.g., train) and background (e.g., rail). 
+            Our idea is to collect background images without any foreground pixels (e.g., collecting railroad images without trains).
+            Then we teach the model not to see the background pixels to classify foreground class. 
+            Adding small amount of background images brings large performance gain in WSSS. 
+            </p>
+          </td>
+        </tr>       
