@@ -20,3 +20,12 @@ Publications
 
 {% include module.html image_path="AdvCAM_teaser.jpg" title="Some title text" description="Some more text that will appear to the left of the image." %}
 
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="AdvCAM_teaser.jpg" alt="" width="100">
+  </div>
+  <div>
+    <h2>a</h2>
+    <p>Some more text that will appear to the left of the image.</p>
+  </div>
+</div>
