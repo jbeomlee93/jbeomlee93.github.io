@@ -18,7 +18,12 @@ Publications
 
 ## 2022
 
-<img style="float: right;" src="_publications/AdvCAM_teaser.jpg">
+<!-- ![AA](/_publications/AdvCAM_teaser.jpg){: style="float:right"} -->
+<!-- <img style="float: right;" src="/_publications/AdvCAM_teaser.jpg"> -->
+<div style="text-align: left"><img src="/_publications/AdvCAM_teaser.jpg" width="200" /></div>
 Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization <br />
 **Jungbeom Lee**, Eunji Kim, Jisoo Mok, and Sungroh Yoon <br />
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), in press. [A preliminary version appeared in CVPR 2021]
+
+![image](/_publications/AdvCAM_teaser.jpg){: style="float: left"}
+some text
