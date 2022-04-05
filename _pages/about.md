@@ -47,7 +47,7 @@ Neural Information Processing Systems (**NeurIPS**), 2021 <br />
 [[Paper](https://arxiv.org/abs/2110.06530)] [[code](https://github.com/jbeomlee93/RIB)]
 
 **Toward Spatially Unbiased Generative Models** <br />
-Juyoung Choi, **Jungbeom Lee**, Yonghyun Jeong, and Sungroh Yoon <br />
+Jooyoung Choi, **Jungbeom Lee**, Yonghyun Jeong, and Sungroh Yoon <br />
 International Conference on Computer Vision (**ICCV**), 2021 <br />
 [[Paper](https://arxiv.org/abs/2108.01285)] [[code](https://github.com/jychoi118/toward_spatial_unbiased)]
 
