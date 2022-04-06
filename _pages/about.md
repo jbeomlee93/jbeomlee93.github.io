@@ -42,7 +42,7 @@ Computer Vision and Pattern Recognition (**CVPR**), 2022. <br />
 ## 2021
 
 **Reducing Information Bottleneck for Weakly Supervised Semantic Segmentation** <br />
-**Jungbeom Lee**, Juyoung Choi, Jisoo Mok, and Sungroh Yoon <br />
+**Jungbeom Lee**, Jooyoung Choi, Jisoo Mok, and Sungroh Yoon <br />
 Neural Information Processing Systems (**NeurIPS**), 2021 <br />
 [[Paper](https://arxiv.org/abs/2110.06530)] [[code](https://github.com/jbeomlee93/RIB)]
 
