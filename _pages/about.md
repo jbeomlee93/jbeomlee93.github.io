@@ -12,6 +12,17 @@ Biography
 ======
 I'm a PhD candidate of Data Science and Artificial Intelligence Laboratory ([DSAIL](http://dsail.snu.ac.kr/)) in the Electrical & Computer Engineering department at the Seoul National University, South Korea. I received B.S. degree in Electrical Engineering from Seoul National University, South Korea, in 2017. My research interests involve deep learning applied to computer vision problem, especially **label-efficient learning** such as weakly and semi-supervised learning.
 
+Education
+======
+* PhD. Electrical and Computer Engineering, Seoul National University (2017.3-2023.2, expected)
+* BS. Electrical and Computer Engineering, Seoul National University (2013.3-2017.2)
+
+Research Experiences
+======
+* Research Internship in Amazon, Seattle, USA (Jun. 2022 - Sep. 2022)
+* Research Internship in Naver AI Lab, Seongnam, South Korea (Sep. 2021 - Nov. 2021, Apr. 2022 - May 2022)
+
+
 
 Publications
 ======
@@ -21,7 +32,7 @@ Publications
 **Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization** <br />
 **Jungbeom Lee**, Eunji Kim, Jisoo Mok, and Sungroh Yoon <br />
 IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022. in press. <br />
-[Paper]
+[[Paper](https://arxiv.org/abs/2204.04890)] [[code](https://github.com/jbeomlee93/AdvCAM)]
 
 **Weakly Supervised Semantic Segmentation using Out-of-Distribution Data** <br />
 **Jungbeom Lee**, Seong Joon Oh, Sangdoo Yun, Junsuk Choe, Eunji Kim, and Sungroh Yoon <br />
